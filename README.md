@@ -4,7 +4,7 @@ Welcome to my GitHub profile
 I'm Lillian Welsh, a DATA ANALYST currently living in New Orleans.
 
 - 🔭 I am a certified Data Science Professional through Harvard Online (on edX)
-- 🌱 I’m currently learning ... advanced Python
+- 🌱 I’m currently learning ... advanced SQL
 - 💬 Ask me about ... my sunset alarm
 - ⚡ Fun fact: ... I used to study a wild population of dolphins in the Bahamas
 - 🤝 Connect with me on LinkedIn ... https://www.linkedin.com/in/lillian-welsh/
